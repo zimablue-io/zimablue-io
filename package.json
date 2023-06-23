@@ -1,0 +1,16 @@
+{
+	"name": "zima-blue",
+	"version": "1.0.0",
+	"description": "## Credits",
+	"main": "index.html",
+	"scripts": {
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
+	},
+	"homepage": "https://zimablue-io.github.io/zimablue-io",
+	"author": "Lefa Moffat",
+	"license": "ISC",
+	"dependencies": {
+		"gh-pages": "^5.0.0"
+	}
+}
