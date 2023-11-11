@@ -1,5 +1,7 @@
 # Zima Blue Site
 
+It's all about using the right tools for the right task.
+
 ## Credits
 
 Template Name: MyResume
